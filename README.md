@@ -20,7 +20,7 @@
   ---
   
   <div align="center">
-    <table width="100%">
+    <table style="width:100%; border:none;">
       <tr>
         <td>
           <h4>Programming Languages (Core Systems)</h4>
