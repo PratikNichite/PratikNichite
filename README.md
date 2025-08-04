@@ -126,36 +126,38 @@
     </tbody>
   </table>
 </div>
-  
-  <h3>🌌 Research Constellation</h3>
-  <p>
-    <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
-    <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer_Vision-45B7D1?style=flat-square&logo=opencv&logoColor=white" />
-    <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-96CEB4?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep_Learning-FFEAA7?style=flat-square&logo=pytorch&logoColor=black" />
-    <img alt="Time Series" src="https://img.shields.io/badge/-Time_Series_Forecasting-DDA0DD?style=flat-square&logo=chart.js&logoColor=white" />
-  </p>
-  
-  <h3>📡 Mission Statistics</h3>
+
+<h3>🌌 Research Constellation</h3>
+<p>
+  <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
+  <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer_Vision-45B7D1?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-96CEB4?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep_Learning-FFEAA7?style=flat-square&logo=pytorch&logoColor=black" />
+  <img alt="Time Series" src="https://img.shields.io/badge/-Time_Series_Forecasting-DDA0DD?style=flat-square&logo=chart.js&logoColor=white" />
+</p>
+
+<h3>📡 Mission Statistics</h3>
+  <div align="center">
   <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2" alt="Pratik's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2" alt="Pratik's most used languages"/></p>
-  
-  <h3>🌍 Transmission Frequencies (Find Me Here)</h3>
+</div>
+
+<h3>🌍 Transmission Frequencies (Find Me Here)</h3>
+<div align="center">
   <p>
   <a href="https://linkedin.com/in/pratik-nichite" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/PratikNichite" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="mailto:pratik.nichite@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
-  
-  ---
-  
-  <p align="center">
-    <i>"Building AI systems that bridge research and production, one autonomous agent at a time" 🚀</i>
-  </p>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Space%20Visitors&color=blueviolet&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/PratikNichite?label=Followers&style=social" alt="GitHub followers" />
-  </p>
 </div>
+---
+
+<p align="center">
+  <i>"Building AI systems that bridge research and production, one autonomous agent at a time" 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Space%20Visitors&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/PratikNichite?label=Followers&style=social" alt="GitHub followers" />
+</p>
