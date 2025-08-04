@@ -1,153 +1,237 @@
+```
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│    ██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗    │
+│    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    │
+│    ██████╔╝██████╔╝███████║   ██║   ██║█████╔╝     │
+│    ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗     │
+│    ██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗    │
+│    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝    │
+│                                                     │
+│           AI Researcher & Autonomous Systems        │
+│              🤖 Building the Future 🚀              │
+│                                                     │
+╰─────────────────────────────────────────────────────╯
+```
+
 <div align="center">
 
-# Pratik Nichite
-### AI Researcher & Software Engineer
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Building+Autonomous+AI+Systems;Collaborating+with+Databricks;From+Research+to+Production;Making+AI+Think+%26+Act)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Building+Autonomous+AI+Systems;Collaborating+with+Databricks;3%2B+Years+in+AI%2FML+Research" alt="Dynamic Typing" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/pratik-nichite)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:your-email@example.com)
-[![Location](https://img.shields.io/badge/📍-Würzburg,_Germany-6B7280?style=flat)](https://maps.google.com/?q=Würzburg,Germany)
+**`Würzburg, Germany`** • **`3+ Years AI/ML`** • **`IEEE Published`** • **`Open Source Contributor`**
 
 </div>
 
 ---
 
-## 🎯 Professional Summary
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**AI Researcher & Software Engineer** with **3+ years** of experience in advanced AI/ML technologies. Currently collaborating with **Databricks** on [app.build](https://www.app.build/) - an open-source AI agent for autonomous full-stack development. Specialized in **Natural Language Processing**, **Computer Vision**, and **Autonomous Systems** with proven track record of **90%+ precision** in production systems.
+### 🧠 **Current Mission**
+```python
+class PratikNichite:
+    def __init__(self):
+        self.role = "AI Researcher & Engineer"
+        self.location = "Würzburg, Germany"
+        self.collaboration = "Databricks Team"
+        self.mission = "Autonomous AI Systems"
+        
+    def current_project(self):
+        return {
+            "project": "app.build evaluation",
+            "focus": "Full-stack AI agents",
+            "impact": "Advancing autonomous development"
+        }
+```
 
----
+</td>
+<td width="50%" valign="top">
 
-## 💼 Current Focus
+### 📊 **Impact Metrics**
+```yaml
+Research:
+  - Scientific Publications: IEEE Conference
+  - Precision Rate: 90%+ (NLP Systems)
+  - F1-Score: 96.1% (CV Models)
+  
+Industry:
+  - Databricks Collaboration: Active
+  - Production Systems: Multiple
+  - Open Source Contributions: Ongoing
+```
 
-**🤝 Industry Collaboration** | Working with Databricks team on AI agent research  
-**🎓 Advanced Education** | M.S. Artificial Intelligence at Technical University Würzburg-Schweinfurt  
-**🔬 Research Impact** | Published IEEE conference papers on AI systems  
-
----
-
-## 🛠️ Core Technologies
-
-<div align="center">
-
-**AI & Machine Learning**
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</div>
-
-<div align="center">
-
-**LLMs & AI Agents**
-</div>
-
-<div align="center">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-
-</div>
-
-<div align="center">
-
-**Development & Cloud**
-</div>
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Key Achievements
+<div align="center">
+
+## 🚀 **Technology Arsenal**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+<br/><strong>Python</strong>
+<br/><em>Expert</em>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
+<br/><strong>PyTorch</strong>
+<br/><em>Advanced</em>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
+<br/><strong>TensorFlow</strong>
+<br/><em>Production</em>
+</td>
+<td align="center" width="25%">
+<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="60"/>
+<br/><strong>OpenAI</strong>
+<br/><em>LLM Expert</em>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| **Project** | **Impact** | **Technology** |
-|:---:|:---:|:---:|
-| **Scientific NLP System** | **90% Precision, 80% Recall** | Self-hosted LLMs, Fine-tuning |
-| **Infrastructure Monitoring** | **96.1% F1-Score** | VAE, Computer Vision |
-| **Movement Classification** | **87% Accuracy** | LSTM, OpenPose |
-| **Quality Control System** | **99% Precision** | YOLOv8, Transfer Learning |
+**Specialized in:** `Autonomous Systems` • `Natural Language Processing` • `Computer Vision` • `LLM Applications`
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🤖 AI Agent Research with Databricks
-**Autonomous Full-Stack Development Agent**
-- Collaborating with Databricks team on [app.build](https://www.app.build/) evaluation
-- Analyzing multi-step application generation workflows
-- Contributing to advancement of autonomous development systems
-- [`View Research`](https://github.com/keugenek/app.build-eval-docs)
+## 💫 **Flagship Projects**
 
-### 🔬 Scientific Publication Resource (IEEE Published)
-**NLP System for Academic Research**
-- **90% precision, 80% recall** in scientific term extraction
-- Self-hosted LLMs (Mistral, Phi3) with fine-tuning
-- Published at IEEE ITHET Conference 2024, Paris
-- [`SPIDER Repository`](https://github.com/Sah-Pranav/SPIDER)
+</div>
 
-### 🏗️ Infrastructure Anomaly Detection
-**VAE-based Monitoring System**
-- **96.1% F1-score** on crack detection
-- Probabilistic latent space modeling
-- Production-ready deployment
-- [`View Project`](https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring)
+<table>
+<tr>
+<td align="center">
 
-### 📝 BART Dialogue Summarization
-**Advanced NLP Model**
-- Outperformed T5, Pegasus baselines
-- Deployed on Hugging Face Hub with API
-- Real-time inference capabilities
-- [`View Project`](https://github.com/PratikNichite/Semantics_Group_Tasks)
+### 🤖 **AI Agent Research**
+**with Databricks**
+
+```diff
++ Evaluating autonomous full-stack development
++ Multi-step application generation workflows  
++ Contributing to app.build advancement
+```
+
+**Impact:** `Industry Collaboration` • `Open Source`
+
+[`🔍 View Research`](https://github.com/keugenek/app.build-eval-docs)
+
+</td>
+<td align="center">
+
+### 🔬 **Scientific NLP System**
+**IEEE Published**
+
+```diff
++ 90% Precision, 80% Recall achieved
++ Self-hosted LLMs (Mistral, Phi3)
++ Production-ready deployment
+```
+
+**Impact:** `90% Precision` • `IEEE Conference`
+
+[`📚 SPIDER`](https://github.com/Sah-Pranav/SPIDER)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 🏗️ **Infrastructure Monitoring**
+**VAE-Based System**
+
+```diff
++ 96.1% F1-Score in crack detection
++ Probabilistic latent space modeling
++ Real-time anomaly detection
+```
+
+**Impact:** `96.1% F1` • `Production Ready`
+
+[`🔧 View System`](https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring)
+
+</td>
+<td align="center">
+
+### 📝 **BART Summarization**
+**Hugging Face Deployed**
+
+```diff
++ Outperformed T5, Pegasus baselines
++ Real-time API integration
++ Scalable inference pipeline
+```
+
+**Impact:** `Production API` • `Open Source`
+
+[`🤗 Model Hub`](https://github.com/PratikNichite/Semantics_Group_Tasks)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+<div align="center">
 
-**Master in Artificial Intelligence** | *Technical University Würzburg-Schweinfurt*  
-📅 March 2023 – Present | 📍 Würzburg, Germany
+## 📈 **Research & Impact**
 
-**Bachelor in Computer Engineering** | *Savitribai Phule Pune University*  
-📅 July 2018 – August 2022 | 📍 Pune, India
+</div>
 
----
-
-## 📄 Publications
+<table>
+<tr>
+<td width="60%">
 
 **🔬 Scientific Publication Indexing and Definition Extraction Resource**  
-*P. Singh, P. Nichite, A. Basit Raja, P. Kumar Sah and I. P. Yamshchikov*  
-IEEE ITHET Conference 2024, Paris  
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FITHET61869.2024.10837640-0066CC?style=flat)](https://doi.org/10.1109/ITHET61869.2024.10837640)
+*P. Singh, **P. Nichite**, A. Basit Raja, P. Kumar Sah and I. P. Yamshchikov*  
+**IEEE ITHET Conference 2024, Paris**
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FITHET61869.2024.10837640-0066CC?style=flat-square&logo=ieee)](https://doi.org/10.1109/ITHET61869.2024.10837640)
 
 **🚗 Driver's Drowsiness Detection Using Facial Features**  
-*H. Chaudhari, R. Pagar, P. Nichite, M. Ghonge, P. Jadhav, and A. Potgantwar*  
-Journal of Emerging Technologies, 2022
+*H. Chaudhari, R. Pagar, **P. Nichite**, et al.*  
+**Journal of Emerging Technologies, 2022**
+
+</td>
+<td width="40%" align="center">
+
+**Education**
+
+🎓 **M.S. Artificial Intelligence**  
+*Technical University Würzburg-Schweinfurt*  
+`2023 - Present`
+
+🎓 **B.E. Computer Engineering**  
+*Savitribai Phule Pune University*  
+`2018 - 2022`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Analytics
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&theme=default&hide_border=true)
+## ⚡ **GitHub Analytics**
+
+<img src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
 
 </div>
 
@@ -155,10 +239,21 @@ Journal of Emerging Technologies, 2022
 
 <div align="center">
 
-**🌟 Open to new opportunities in AI Research & Engineering**
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  "Building AI systems that bridge research          │
+│   and production, one autonomous agent at a time"   │
+│                                                     │
+│           🤝 Let's build the future together         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
-[![Contact Me](https://img.shields.io/badge/Let's_Connect-2563EB?style=for-the-badge&logo=handshake&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-nichite)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikNichite)
 
-<img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Profile%20Views&color=2563EB&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Profile%20Views&color=00D4AA&style=flat" alt="Profile Views" />
 
 </div>
