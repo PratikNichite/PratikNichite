@@ -105,14 +105,3 @@
   <a href="mailto:pratik.nichite@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
-
----
-
-<p align="center">
-  <i>"Building AI systems that bridge research and production, one autonomous agent at a time" 🚀</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Space%20Visitors&color=blueviolet&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/PratikNichite?label=Followers&style=social" alt="GitHub followers" />
-</p>
