@@ -19,8 +19,8 @@
 
 ---
 
-<div >
-  <table align="center">
+<div align="center">
+  <table width="100%">
     <tr>
       <td>
         <h4>Programming Languages (Core Systems)</h4>
