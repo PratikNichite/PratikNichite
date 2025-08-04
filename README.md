@@ -7,7 +7,7 @@
 
 ---
 
-<h3>Research Constellation</h3>
+<h3>Fields of Interest</h3>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
