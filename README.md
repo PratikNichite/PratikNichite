@@ -82,52 +82,6 @@
   </table>
 </div>
 
-  
-  <h3>Featured Space Missions (Projects)</h3>
-<div align="center">
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>🚀 Mission</b></td>
-        <td><b>🛠️ Tech Stack</b></td>
-        <td><b>📊 Impact</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://github.com/keugenek/app.build-eval-docs"><b>🤖 AI Agent Research</b></a><br/><sub>Databricks Collaboration</sub></td>
-        <td><img src="https://img.shields.io/badge/-LLMs-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/-Multi_Agent-4ECDC4?style=flat-square"/></td>
-        <td>🌟 Open Source Impact</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/Sah-Pranav/SPIDER"><b>🔬 Scientific Document Indexer</b></a><br/><sub>IEEE Published Research</sub></td>
-        <td><img src="https://img.shields.io/badge/-Mistral-EE4C2C?style=flat-square"/> <img src="https://img.shields.io/badge/-Phi3-306998?style=flat-square"/></td>
-        <td>📄 IEEE Conference</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring"><b>🏗️ Infrastructure AI Monitor</b></a><br/><sub>Production Anomaly Detection</sub></td>
-        <td><img src="https://img.shields.io/badge/-VAE-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/></td>
-        <td>🚀 Production Ready</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/PratikNichite/Semantics_Group_Tasks"><b>📝 Intelligent Summarizer</b></a><br/><sub>BART Fine-tuning System</sub></td>
-        <td><img src="https://img.shields.io/badge/-BART-FFD21E?style=flat-square"/> <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square"/></td>
-        <td>🌐 Production API</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/PratikNichite/portfolio_assistant_backend"><b>🛸 AI Portfolio Agent</b></a><br/><sub>Autonomous Knowledge System</sub></td>
-        <td><img src="https://img.shields.io/badge/-RAG-412991?style=flat-square"/> <img src="https://img.shields.io/badge/-Tool_Calling-FF6B6B?style=flat-square"/></td>
-        <td>🎯 Smart Exploration</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/tharun-kumar-22/toy_detection"><b>🧸 Smart Quality Inspector</b></a><br/><sub>Industrial Computer Vision</sub></td>
-        <td><img src="https://img.shields.io/badge/-YOLOv8-EE4C2C?style=flat-square"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square"/></td>
-        <td>🏭 Manufacturing AI</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 <div align="center">
   <table>
     <tr>
