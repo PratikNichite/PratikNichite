@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center" min-width="100%">
+<div align="center" min-width="100vh">
   <table>
     <tr>
       <td>
