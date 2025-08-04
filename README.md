@@ -19,8 +19,8 @@
 
 ---
 
-<div align="center" min-width="100vh">
-  <table>
+<div >
+  <table align="center">
     <tr>
       <td>
         <h4>Programming Languages (Core Systems)</h4>
