@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="40%" valign="top">
+    <td width="60%" valign="top">
       ### 🚀 Programming Languages (Core Systems)
         <p>
           <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
