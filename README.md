@@ -71,16 +71,6 @@
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2" alt="Pratik's GitHub stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2" alt="Pratik's most used languages"/></p>
 
-<h3>🛸 Beyond the Code</h3>
-<p>When I'm not training neural networks or building autonomous systems, you'll find me:</p>
-<ul>
-  <li>🎸 Jamming on my guitar and exploring musical instruments</li>
-  <li>⚡ Rolling around on roller skates (my favorite way to debug tough problems!)</li>
-  <li>🎮 Gaming and diving into virtual universes</li>
-  <li>🌌 Stargazing and contemplating the cosmos</li>
-  <li>💻 Writing more code (because why stop?)</li>
-</ul>
-
 <h3>🌍 Transmission Frequencies (Find Me Here)</h3>
 <p>
 <a href="https://linkedin.com/in/pratik-nichite" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
