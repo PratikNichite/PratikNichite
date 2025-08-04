@@ -17,7 +17,7 @@
             <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white" />
             <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
           </p>
-          ### 🤖 Machine Learning & Data Science Arsenal
+          <h4>🤖 Machine Learning & Data Science Arsenal</h4>
           <p>
             <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
             <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -26,7 +26,7 @@
             <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
             <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
           </p>
-          ### 📊 Analytics & Visualization Tools
+          <h4>📊 Analytics & Visualization Tools</h4>
           <p>
             <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
             <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-388e3c?style=flat-square&logo=python&logoColor=white" />
@@ -34,7 +34,7 @@
             <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
             <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
           </p>
-          ### 🛸 Agentic AI & LLM Frameworks
+          <h4>🛸 Agentic AI & LLM Frameworks</h4>
           <p>
             <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
             <img alt="Hugging Face" src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
@@ -42,7 +42,7 @@
             <img alt="AutoGen" src="https://img.shields.io/badge/-AutoGen-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
             <img alt="CrewAI" src="https://img.shields.io/badge/-CrewAI-4ECDC4?style=flat-square&logo=artificial-intelligence&logoColor=white" />
           </p>
-          ### ⚙️ Development Tools & Frameworks
+          <h4>⚙️ Development Tools & Frameworks</h4>
           <p>
             <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
             <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -51,7 +51,7 @@
             <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
             <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
           </p>
-          ### ☁️ Cloud & Infrastructure
+          <h4>☁️ Cloud & Infrastructure</h4>
           <p>
             <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
             <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
