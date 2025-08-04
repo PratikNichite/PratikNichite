@@ -65,13 +65,6 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-<h3>🌟 Current Mission Status</h3>
-<ul>
-  <li>🎓 <b>Navigating through Master's in AI</b> at TH Würzburg-Schweinfurt (2023-Present)</li>
-  <li>🤖 <b>Collaborating with Databricks</b> on autonomous AI agent research</li>
-  <li>📄 <b>Published IEEE researcher</b> advancing scientific NLP systems</li>
-  <li>🎯 <b>Achieved 90%+ precision</b> in production AI systems</li>
-</ul>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="200"/>
@@ -134,15 +127,6 @@
   </tbody>
 </table>
 
-<h3>🏆 Mission Achievements</h3>
-<ul>
-  <li>📄 <a href="https://doi.org/10.1109/ITHET61869.2024.10837640"><b><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/star.svg" width="20" alt="achievement" /> IEEE ITHET 2024 Conference Publication</b></a><br/><i>Scientific Publication Indexing and Definition Extraction Resource</i></li>
-  <li>🤝 <b>Active Databricks Collaboration</b><br/><i>Contributing to open-source AI agent advancement</i></li>
-  <li>🎯 <b>90%+ Precision in NLP Systems</b><br/><i>Self-hosted LLM deployment and fine-tuning</i></li>
-  <li>🔍 <b>96.1% F1-Score in Computer Vision</b><br/><i>Infrastructure anomaly detection systems</i></li>
-  <li>🚀 <b>Production AI Systems Deployed</b><br/><i>Real-time APIs with scalable inference</i></li>
-</ul>
-
 <h3>🌌 Research Constellation</h3>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
@@ -157,15 +141,6 @@
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2" alt="Pratik's GitHub stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2" alt="Pratik's most used languages"/></p>
 
-<h3>🛸 Beyond the Code</h3>
-<p>When I'm not training neural networks or building autonomous systems, you'll find me:</p>
-<ul>
-  <li>🎸 Jamming on my guitar and exploring musical instruments</li>
-  <li>⚡ Rolling around on roller skates (my favorite way to debug tough problems!)</li>
-  <li>🎮 Gaming and diving into virtual universes</li>
-  <li>🌌 Stargazing and contemplating the cosmos</li>
-  <li>💻 Writing more code (because why stop?)</li>
-</ul>
 
 <h3>🌍 Transmission Frequencies (Find Me Here)</h3>
 <p>
