@@ -1,259 +1,105 @@
-```
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│    ██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗    │
-│    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝    │
-│    ██████╔╝██████╔╝███████║   ██║   ██║█████╔╝     │
-│    ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗     │
-│    ██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗    │
-│    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝    │
-│                                                     │
-│           AI Researcher & Autonomous Systems        │
-│              🤖 Building the Future 🚀              │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
-```
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=800&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Building+Autonomous+AI+Systems;Collaborating+with+Databricks;From+Research+to+Production;Making+AI+Think+%26+Act)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=AI+Researcher+%26+Engineer;Building+Autonomous+Systems)
+
+**`Würzburg, Germany`** • **`IEEE Published`** • **`Databricks Collaboration`**
 
 <br/>
 
-**`Würzburg, Germany`** • **`3+ Years AI/ML`** • **`IEEE Published`** • **`Open Source Contributor`**
+## 🔧 Tech Stack
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logoColor=white)
 
----
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🎯 Impact Highlights
 
-### 🧠 **Current Mission**
 ```python
-class PratikNichite:
-    def __init__(self):
-        self.role = "AI Researcher & Engineer"
-        self.location = "Würzburg, Germany"
-        self.collaboration = "Databricks Team"
-        self.mission = "Autonomous AI Systems"
-        
-    def current_project(self):
-        return {
-            "project": "app.build evaluation",
-            "focus": "Full-stack AI agents",
-            "impact": "Advancing autonomous development"
-        }
+achievements = {
+    "research": {
+        "ieee_publication": "2024 Conference Paris",
+        "nlp_precision": "90%+",
+        "cv_f1_score": "96.1%"
+    },
+    "industry": {
+        "databricks_collaboration": "Active",
+        "production_systems": "Multiple deployments",
+        "open_source": "Active contributor"
+    }
+}
 ```
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 📊 **Impact Metrics**
-```yaml
-Research:
-  - Scientific Publications: IEEE Conference
-  - Precision Rate: 90%+ (NLP Systems)
-  - F1-Score: 96.1% (CV Models)
-  
-Industry:
-  - Databricks Collaboration: Active
-  - Production Systems: Multiple
-  - Open Source Contributions: Ongoing
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚀 **Technology Arsenal**
-
-</div>
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<br/><strong>Python</strong>
-<br/><em>Expert</em>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60"/>
-<br/><strong>PyTorch</strong>
-<br/><em>Advanced</em>
-</td>
-<td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60"/>
-<br/><strong>TensorFlow</strong>
-<br/><em>Production</em>
-</td>
-<td align="center" width="25%">
-<img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="60"/>
-<br/><strong>OpenAI</strong>
-<br/><em>LLM Expert</em>
-</td>
-</tr>
-</table>
+<td width="50%">
 
-<div align="center">
+**🤖 AI Agent Research** • *with Databricks*  
+Evaluating autonomous full-stack development workflows
 
-**Specialized in:** `Autonomous Systems` • `Natural Language Processing` • `Computer Vision` • `LLM Applications`
-
-</div>
-
----
-
-<div align="center">
-
-## 💫 **Flagship Projects**
-
-</div>
-
-<table>
-<tr>
-<td align="center">
-
-### 🤖 **AI Agent Research**
-**with Databricks**
-
-```diff
-+ Evaluating autonomous full-stack development
-+ Multi-step application generation workflows  
-+ Contributing to app.build advancement
-```
-
-**Impact:** `Industry Collaboration` • `Open Source`
-
-[`🔍 View Research`](https://github.com/keugenek/app.build-eval-docs)
+[![View Research](https://img.shields.io/badge/View-Research-blue?style=for-the-badge)](https://github.com/keugenek/app.build-eval-docs)
 
 </td>
-<td align="center">
+<td width="50%">
 
-### 🔬 **Scientific NLP System**
-**IEEE Published**
+**🔬 Scientific NLP System** • *IEEE Published*  
+90% precision NLP system with self-hosted LLMs
 
-```diff
-+ 90% Precision, 80% Recall achieved
-+ Self-hosted LLMs (Mistral, Phi3)
-+ Production-ready deployment
-```
-
-**Impact:** `90% Precision` • `IEEE Conference`
-
-[`📚 SPIDER`](https://github.com/Sah-Pranav/SPIDER)
+[![SPIDER](https://img.shields.io/badge/View-SPIDER-green?style=for-the-badge)](https://github.com/Sah-Pranav/SPIDER)
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%">
 
-### 🏗️ **Infrastructure Monitoring**
-**VAE-Based System**
+**🏗️ Infrastructure Monitoring** • *96.1% F1-Score*  
+VAE-based crack detection with real-time anomaly detection
 
-```diff
-+ 96.1% F1-Score in crack detection
-+ Probabilistic latent space modeling
-+ Real-time anomaly detection
-```
-
-**Impact:** `96.1% F1` • `Production Ready`
-
-[`🔧 View System`](https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring)
+[![View System](https://img.shields.io/badge/View-System-orange?style=for-the-badge)](https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring)
 
 </td>
-<td align="center">
+<td width="50%">
 
-### 📝 **BART Summarization**
-**Hugging Face Deployed**
+**📝 BART Summarization** • *Production API*  
+Outperformed T5/Pegasus with scalable inference pipeline
 
-```diff
-+ Outperformed T5, Pegasus baselines
-+ Real-time API integration
-+ Scalable inference pipeline
-```
-
-**Impact:** `Production API` • `Open Source`
-
-[`🤗 Model Hub`](https://github.com/PratikNichite/Semantics_Group_Tasks)
+[![Model Hub](https://img.shields.io/badge/🤗-Model_Hub-yellow?style=for-the-badge)](https://github.com/PratikNichite/Semantics_Group_Tasks)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<div align="center">
+## 📊 GitHub Stats
 
-## 📈 **Research & Impact**
+<img src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikNichite&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
+<br/>
 
-<table>
-<tr>
-<td width="60%">
+## 🎓 Education & Publications
 
-**🔬 Scientific Publication Indexing and Definition Extraction Resource**  
-*P. Singh, **P. Nichite**, A. Basit Raja, P. Kumar Sah and I. P. Yamshchikov*  
-**IEEE ITHET Conference 2024, Paris**
+**M.S. Artificial Intelligence** • *TH Würzburg-Schweinfurt* • `2023-Present`  
+**B.E. Computer Engineering** • *Savitribai Phule Pune University* • `2018-2022`
 
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FITHET61869.2024.10837640-0066CC?style=flat-square&logo=ieee)](https://doi.org/10.1109/ITHET61869.2024.10837640)
+[![IEEE Publication](https://img.shields.io/badge/IEEE-Publication-0066CC?style=for-the-badge&logo=ieee)](https://doi.org/10.1109/ITHET61869.2024.10837640)
 
-**🚗 Driver's Drowsiness Detection Using Facial Features**  
-*H. Chaudhari, R. Pagar, **P. Nichite**, et al.*  
-**Journal of Emerging Technologies, 2022**
-
-</td>
-<td width="40%" align="center">
-
-**Education**
-
-🎓 **M.S. Artificial Intelligence**  
-*Technical University Würzburg-Schweinfurt*  
-`2023 - Present`
-
-🎓 **B.E. Computer Engineering**  
-*Savitribai Phule Pune University*  
-`2018 - 2022`
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
-
-<div align="center">
-
-## ⚡ **GitHub Analytics**
-
-<img src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
-
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  "Building AI systems that bridge research          │
-│   and production, one autonomous agent at a time"   │
-│                                                     │
-│           🤝 Let's build the future together         │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratik-nichite)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PratikNichite)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratik.nichite@example.com)
 
-<img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Profile%20Views&color=00D4AA&style=flat" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=PratikNichite&label=Profile%20Views&color=6366F1&style=flat)
 
 </div>
