@@ -39,43 +39,23 @@
       <td><a href="https://github.com/keugenek/app.build-eval-docs"><b>🤖 AI Agent Research (Databricks)</b></a></td>
       <td>Autonomous Development</td>
       <td>LLMs, Multi-Agent Systems</td>
-      <td>Industry Collaboration</td>
+      <td>Open Source & Industry Collaboration</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Sah-Pranav/SPIDER"><b>🔬 Scientific NLP System</b></a></td>
+      <td><a href="https://github.com/Sah-Pranav/SPIDER"><b>🔬 Autonomous Document Indexer</b></a></td>
       <td>90% Precision</td>
-      <td>Mistral, Phi3, Fine-tuning</td>
+      <td>Self Hosted LLMs & NLP Pipelines</td>
       <td>IEEE Published</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring"><b>🏗️ Infrastructure Monitoring</b></a></td>
-      <td>96.1% F1-Score</td>
-      <td>VAE, Computer Vision</td>
-      <td>Production Ready</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PratikNichite/Semantics_Group_Tasks"><b>📝 BART Summarization</b></a></td>
-      <td>Outperformed Baselines</td>
-      <td>BART, Hugging Face</td>
-      <td>Production API</td>
     </tr>
     <tr>
       <td><a href="https://github.com/PratikNichite/portfolio_assistant_backend"><b>🛸 Portfolio AI Assistant</b></a></td>
       <td>Autonomous Agent</td>
-      <td>LLMs, Tool-Calling</td>
-      <td>Enhanced Accuracy</td>
+      <td>AI Agents, Custom Tool-Calling & RAG</td>
+      <td>Seamless Profile Exploration</td>
     </tr>
   </tbody>
 </table>
 
-<h3>🏆 Mission Achievements</h3>
-<ul>
-  <li>📄 <a href="https://doi.org/10.1109/ITHET61869.2024.10837640"><b><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/star.svg" width="20" alt="achievement" /> IEEE ITHET 2024 Conference Publication</b></a><br/><i>Scientific Publication Indexing and Definition Extraction Resource</i></li>
-  <li>🤝 <b>Active Databricks Collaboration</b><br/><i>Contributing to open-source AI agent advancement</i></li>
-  <li>🎯 <b>90%+ Precision in NLP Systems</b><br/><i>Self-hosted LLM deployment and fine-tuning</i></li>
-  <li>🔍 <b>96.1% F1-Score in Computer Vision</b><br/><i>Infrastructure anomaly detection systems</i></li>
-  <li>🚀 <b>Production AI Systems Deployed</b><br/><i>Real-time APIs with scalable inference</i></li>
-</ul>
 
 <h3>🌌 Research Constellation</h3>
 <p>
