@@ -4,10 +4,10 @@
 
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
-<div align="center">
+<div width="100%" align="center">
   <table>
     <tr>
-      <td width="60%" valign="top">
+      <td width="40%" valign="top">
         ### 🚀 Programming Languages (Core Systems)
           <p>
             <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
