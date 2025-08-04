@@ -5,6 +5,20 @@
 
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
+---
+
+<h3>Research Constellation</h3>
+<p>
+  <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
+  <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer_Vision-45B7D1?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-96CEB4?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep_Learning-FFEAA7?style=flat-square&logo=pytorch&logoColor=black" />
+  <img alt="Time Series" src="https://img.shields.io/badge/-Time_Series_Forecasting-DDA0DD?style=flat-square&logo=chart.js&logoColor=white" />
+</p>
+
+---
+
 <div align="center">
   <table>
     <tr>
@@ -112,16 +126,6 @@
     </tbody>
   </table>
 </div>
-
-<h3>Research Constellation</h3>
-<p>
-  <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
-  <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer_Vision-45B7D1?style=flat-square&logo=opencv&logoColor=white" />
-  <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-96CEB4?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep_Learning-FFEAA7?style=flat-square&logo=pytorch&logoColor=black" />
-  <img alt="Time Series" src="https://img.shields.io/badge/-Time_Series_Forecasting-DDA0DD?style=flat-square&logo=chart.js&logoColor=white" />
-</p>
 
 <div align="center">
   <table>
