@@ -65,11 +65,6 @@
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="200"/>
-</div>
-
 <h3>🛰️ Featured Space Missions (Projects)</h3>
 <table>
   <thead align="center">
