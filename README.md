@@ -68,7 +68,7 @@
   </table>
 </div>
   
-  <h3>🛰️ Featured Space Missions (Projects)</h3>
+  <h3>Featured Space Missions (Projects)</h3>
 <div align="center">
   <table>
     <thead align="center">
@@ -113,7 +113,7 @@
   </table>
 </div>
 
-<h3>🌌 Research Constellation</h3>
+<h3>Research Constellation</h3>
 <p>
   <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -134,7 +134,7 @@
   </tr>
 </table>
 
-<h3>🌍 Transmission Frequencies (Find Me Here)</h3>
+<h3>Social</h3>
 <div align="center">
   <p>
   <a href="https://linkedin.com/in/pratik-nichite" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
