@@ -1,51 +1,128 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=60&lines=AI+Researcher+%26+Engineer;Autonomous+Systems+Developer)](https://linkedin.com/in/pratik-nichite)
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, Space Explorer!</h1>
 
-**AI Researcher & Engineer** • **Würzburg, Germany** • **IEEE Published** • **Databricks Collaboration**
+<p>Welcome to my digital universe! 🚀</br> I'm <b>Pratik Nichite</b>, an AI Researcher & Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>Pune, India</b>, currently exploring the AI frontier in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Würzburg, Germany</b>. 🌌</p>
 
-### Languages & Frameworks
+<p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![R](https://img.shields.io/badge/-R-000?&logo=R)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+<h3>🚀 My Tech Stack (Mission Equipment)</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 
-### AI/ML Technologies
+<h3>🌟 Current Mission Status</h3>
+<ul>
+  <li>🎓 <b>Navigating through Master's in AI</b> at TH Würzburg-Schweinfurt (2023-Present)</li>
+  <li>🤖 <b>Collaborating with Databricks</b> on autonomous AI agent research</li>
+  <li>📄 <b>Published IEEE researcher</b> advancing scientific NLP systems</li>
+  <li>🎯 <b>Achieved 90%+ precision</b> in production AI systems</li>
+</ul>
 
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000?&logo=HuggingFace)
-![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
-![Mistral](https://img.shields.io/badge/-Mistral%20AI-000?&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMkwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEyTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-000?&logo=scikit-learn)
+<h3>🛰️ Featured Space Missions (Projects)</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🚀 Mission</b></td>
+      <td><b>🎯 Achievement</b></td>
+      <td><b>🛠️ Tech Stack</b></td>
+      <td><b>📊 Impact</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/keugenek/app.build-eval-docs"><b>🤖 AI Agent Research (Databricks)</b></a></td>
+      <td>Autonomous Development</td>
+      <td>LLMs, Multi-Agent Systems</td>
+      <td>Industry Collaboration</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Sah-Pranav/SPIDER"><b>🔬 Scientific NLP System</b></a></td>
+      <td>90% Precision</td>
+      <td>Mistral, Phi3, Fine-tuning</td>
+      <td>IEEE Published</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring"><b>🏗️ Infrastructure Monitoring</b></a></td>
+      <td>96.1% F1-Score</td>
+      <td>VAE, Computer Vision</td>
+      <td>Production Ready</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PratikNichite/Semantics_Group_Tasks"><b>📝 BART Summarization</b></a></td>
+      <td>Outperformed Baselines</td>
+      <td>BART, Hugging Face</td>
+      <td>Production API</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PratikNichite/portfolio_assistant_backend"><b>🛸 Portfolio AI Assistant</b></a></td>
+      <td>Autonomous Agent</td>
+      <td>LLMs, Tool-Calling</td>
+      <td>Enhanced Accuracy</td>
+    </tr>
+  </tbody>
+</table>
 
-### Infrastructure & Tools
+<h3>🏆 Mission Achievements</h3>
+<ul>
+  <li>📄 <a href="https://doi.org/10.1109/ITHET61869.2024.10837640"><b><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/star.svg" width="20" alt="achievement" /> IEEE ITHET 2024 Conference Publication</b></a><br/><i>Scientific Publication Indexing and Definition Extraction Resource</i></li>
+  <li>🤝 <b>Active Databricks Collaboration</b><br/><i>Contributing to open-source AI agent advancement</i></li>
+  <li>🎯 <b>90%+ Precision in NLP Systems</b><br/><i>Self-hosted LLM deployment and fine-tuning</i></li>
+  <li>🔍 <b>96.1% F1-Score in Computer Vision</b><br/><i>Infrastructure anomaly detection systems</i></li>
+  <li>🚀 <b>Production AI Systems Deployed</b><br/><i>Real-time APIs with scalable inference</i></li>
+</ul>
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![MLflow](https://img.shields.io/badge/-MLflow-000?&logo=MLflow)
+<h3>🌌 Research Constellation</h3>
+<p>
+  <img alt="AI Agents" src="https://img.shields.io/badge/-Autonomous_Systems-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
+  <img alt="NLP" src="https://img.shields.io/badge/-Natural_Language_Processing-4ECDC4?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer_Vision-45B7D1?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="MLOps" src="https://img.shields.io/badge/-MLOps-96CEB4?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep_Learning-FFEAA7?style=flat-square&logo=pytorch&logoColor=black" />
+  <img alt="Time Series" src="https://img.shields.io/badge/-Time_Series_Forecasting-DDA0DD?style=flat-square&logo=chart.js&logoColor=white" />
+</p>
 
-### Research & Production Projects
+<h3>📡 Mission Statistics</h3>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2" alt="Pratik's GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2" alt="Pratik's most used languages"/></p>
 
-[![](https://img.shields.io/badge/-🤖%20AI%20Agent%20Research%20(Databricks)-000)](https://github.com/keugenek/app.build-eval-docs)
-[![](https://img.shields.io/badge/-🔬%20Scientific%20NLP%20System%20(IEEE%20Published)-000)](https://github.com/Sah-Pranav/SPIDER)
-[![](https://img.shields.io/badge/-🏗️%20Infrastructure%20Monitoring%20(96.1%25%20F1)-000)](https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring)
-[![](https://img.shields.io/badge/-📝%20BART%20Summarization%20(Production%20API)-000)](https://github.com/PratikNichite/Semantics_Group_Tasks)
-[![](https://img.shields.io/badge/-🚗%20Driver%20Drowsiness%20Detection-000)](https://github.com/PratikNichite)
+<h3>🛸 Beyond the Code</h3>
+<p>When I'm not training neural networks or building autonomous systems, you'll find me:</p>
+<ul>
+  <li>🎸 Jamming on my guitar and exploring musical instruments</li>
+  <li>⚡ Rolling around on roller skates (my favorite way to debug tough problems!)</li>
+  <li>🎮 Gaming and diving into virtual universes</li>
+  <li>🌌 Stargazing and contemplating the cosmos</li>
+  <li>💻 Writing more code (because why stop?)</li>
+</ul>
 
-### Publications & Research
-
-[![](https://img.shields.io/badge/-📄%20IEEE%20ITHET%202024%20Conference-000)](https://doi.org/10.1109/ITHET61869.2024.10837640)
-[![](https://img.shields.io/badge/-📚%20Journal%20of%20Emerging%20Technologies-000)](#)
-
-<a href="https://linkedin.com/in/pratik-nichite"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,4facfe,00f2fe&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,00f2fe,4facfe&theme=graywhite" /></a>
+<h3>🌍 Transmission Frequencies (Find Me Here)</h3>
+<p>
+<a href="https://linkedin.com/in/pratik-nichite" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/PratikNichite" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="mailto:pratik.nichite@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/pratik-nichite)
-[![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:pratik.nichite@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/PratikNichite)
+<p align="center">
+  <i>"Building AI systems that bridge research and production, one autonomous agent at a time" 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PratikNichite&label=Space%20Visitors&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/PratikNichite?label=Followers&style=social" alt="GitHub followers" />
+</p>
