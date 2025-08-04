@@ -24,14 +24,6 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-<h3>🌟 Current Mission Status</h3>
-<ul>
-  <li>🎓 <b>Navigating through Master's in AI</b> at TH Würzburg-Schweinfurt (2023-Present)</li>
-  <li>🤖 <b>Collaborating with Databricks</b> on autonomous AI agent research</li>
-  <li>📄 <b>Published IEEE researcher</b> advancing scientific NLP systems</li>
-  <li>🎯 <b>Achieved 90%+ precision</b> in production AI systems</li>
-</ul>
-
 <h3>🛰️ Featured Space Missions (Projects)</h3>
 <table>
   <thead align="center">
