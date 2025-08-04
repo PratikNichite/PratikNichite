@@ -31,6 +31,9 @@
             <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white" />
             <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
           </p>
+        </td>
+      </tr>
+      <tr>
           <h4>Machine Learning & Data Science Arsenal</h4>
           <p>
             <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -97,12 +100,12 @@
   
   ---
    
-  <span><h3>Social</h3></span>
-  <span align="center">
+  <h3>Social:</h3>
+  <div align="center">
     <p>
     <a href="https://linkedin.com/in/pratik-nichite" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/PratikNichite" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="mailto:pratik.nichite@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </p>
-  </span>
+  </div>
 </div>
