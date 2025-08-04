@@ -23,7 +23,7 @@
 <div align="center">
   <table>
     <tr>
-      <td>
+      <td width="100%">
         <h4>Programming Languages (Core Systems)</h4>
         <p>
           <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
