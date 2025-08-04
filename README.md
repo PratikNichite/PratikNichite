@@ -151,6 +151,7 @@
   <a href="mailto:pratik.nichite@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
+
 ---
 
 <p align="center">
