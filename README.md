@@ -78,6 +78,7 @@
       </td>
       <td>
         <img src="https://i.giphy.com/FT7EbxN8cPeIpIrS1W.webp" width="300" height="450"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2"/>
       </td>
     </tr>
   </table>
@@ -87,7 +88,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2"/>
+
 </div>
 
 ---
