@@ -5,10 +5,11 @@
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
 <div align="center">
-  <img src="https://i.giphy.com/FT7EbxN8cPeIpIrS1W.webp" width="400" height="600"/>
-</div>
-
-<h3>🚀 Programming Languages (Core Systems)</h3>
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        
+### 🚀 Programming Languages (Core Systems)
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -17,7 +18,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
 </p>
 
-<h3>🤖 Machine Learning & Data Science Arsenal</h3>
+### 🤖 Machine Learning & Data Science Arsenal
 <p>
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -27,7 +28,7 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-<h3>📊 Analytics & Visualization Tools</h3>
+### 📊 Analytics & Visualization Tools
 <p>
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-388e3c?style=flat-square&logo=python&logoColor=white" />
@@ -36,7 +37,7 @@
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
-<h3>🛸 Agentic AI & LLM Frameworks</h3>
+### 🛸 Agentic AI & LLM Frameworks
 <p>
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
@@ -45,7 +46,7 @@
   <img alt="CrewAI" src="https://img.shields.io/badge/-CrewAI-4ECDC4?style=flat-square&logo=artificial-intelligence&logoColor=white" />
 </p>
 
-<h3>⚙️ Development Tools & Frameworks</h3>
+### ⚙️ Development Tools & Frameworks
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -55,7 +56,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>☁️ Cloud & Infrastructure</h3>
+### ☁️ Cloud & Infrastructure
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -64,6 +65,14 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
+
+      </td>
+      <td width="40%" valign="top" align="center">
+        <img src="https://i.giphy.com/FT7EbxN8cPeIpIrS1W.webp" width="300" height="450"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3>🛰️ Featured Space Missions (Projects)</h3>
 <table>
@@ -135,7 +144,6 @@
 <h3>📡 Mission Statistics</h3>
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2" alt="Pratik's GitHub stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2" alt="Pratik's most used languages"/></p>
-
 
 <h3>🌍 Transmission Frequencies (Find Me Here)</h3>
 <p>
