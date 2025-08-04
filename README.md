@@ -4,7 +4,7 @@
 
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
-<table>
+<table width="100%">
   <tr>
     <td>
       ### 🚀 Programming Languages (Core Systems)
