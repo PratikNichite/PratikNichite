@@ -4,25 +4,78 @@
 
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
-<h3>🚀 My Tech Stack (Mission Equipment)</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+</div>
+
+<h3>🚀 Programming Languages (Core Systems)</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
+</p>
+
+<h3>🤖 Machine Learning & Data Science Arsenal</h3>
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
+<h3>📊 Analytics & Visualization Tools</h3>
+<p>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-388e3c?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
+
+<h3>🛸 Agentic AI & LLM Frameworks</h3>
+<p>
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square&logoColor=black" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+  <img alt="AutoGen" src="https://img.shields.io/badge/-AutoGen-FF6B6B?style=flat-square&logo=robot&logoColor=white" />
+  <img alt="CrewAI" src="https://img.shields.io/badge/-CrewAI-4ECDC4?style=flat-square&logo=artificial-intelligence&logoColor=white" />
+</p>
+
+<h3>⚙️ Development Tools & Frameworks</h3>
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<h3>☁️ Cloud & Infrastructure</h3>
+<p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 </p>
+
+<h3>🌟 Current Mission Status</h3>
+<ul>
+  <li>🎓 <b>Navigating through Master's in AI</b> at TH Würzburg-Schweinfurt (2023-Present)</li>
+  <li>🤖 <b>Collaborating with Databricks</b> on autonomous AI agent research</li>
+  <li>📄 <b>Published IEEE researcher</b> advancing scientific NLP systems</li>
+  <li>🎯 <b>Achieved 90%+ precision</b> in production AI systems</li>
+</ul>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="200"/>
+</div>
 
 <h3>🛰️ Featured Space Missions (Projects)</h3>
 <table>
@@ -32,30 +85,63 @@
       <td><b>🎯 Achievement</b></td>
       <td><b>🛠️ Tech Stack</b></td>
       <td><b>📊 Impact</b></td>
+      <td><b>⭐ Status</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/keugenek/app.build-eval-docs"><b>🤖 AI Agent Research (Databricks)</b></a></td>
-      <td>Autonomous Development</td>
-      <td>LLMs, Multi-Agent Systems</td>
-      <td>Open Source & Industry Collaboration</td>
+      <td><a href="https://github.com/keugenek/app.build-eval-docs"><b>🤖 AI Agent Research</b></a><br/><sub>Databricks Collaboration</sub></td>
+      <td><img src="https://img.shields.io/badge/Autonomous-Development-success?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/badge/-LLMs-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/-Multi_Agent-4ECDC4?style=flat-square"/></td>
+      <td>🌟 Open Source Impact</td>
+      <td><img src="https://img.shields.io/badge/-Active-brightgreen?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Sah-Pranav/SPIDER"><b>🔬 Autonomous Document Indexer</b></a></td>
-      <td>90% Precision</td>
-      <td>Self Hosted LLMs & NLP Pipelines</td>
-      <td>IEEE Published</td>
+      <td><a href="https://github.com/Sah-Pranav/SPIDER"><b>🔬 Scientific Document Indexer</b></a><br/><sub>IEEE Published Research</sub></td>
+      <td><img src="https://img.shields.io/badge/90%25-Precision-success?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/badge/-Mistral-EE4C2C?style=flat-square"/> <img src="https://img.shields.io/badge/-Phi3-306998?style=flat-square"/></td>
+      <td>📄 IEEE Conference</td>
+      <td><img src="https://img.shields.io/badge/-Published-blue?style=flat-square"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/PratikNichite/portfolio_assistant_backend"><b>🛸 Portfolio AI Assistant</b></a></td>
-      <td>Autonomous Agent</td>
-      <td>AI Agents, Custom Tool-Calling & RAG</td>
-      <td>Seamless Profile Exploration</td>
+      <td><a href="https://github.com/PratikNichite/Anomaly-Detection-for-Infrastructure-Monitoring"><b>🏗️ Infrastructure AI Monitor</b></a><br/><sub>Production Anomaly Detection</sub></td>
+      <td><img src="https://img.shields.io/badge/96.1%25-F1_Score-success?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/badge/-VAE-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square"/></td>
+      <td>🚀 Production Ready</td>
+      <td><img src="https://img.shields.io/badge/-Deployed-success?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PratikNichite/Semantics_Group_Tasks"><b>📝 Intelligent Summarizer</b></a><br/><sub>BART Fine-tuning System</sub></td>
+      <td><img src="https://img.shields.io/badge/Outperformed-Baselines-success?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/badge/-BART-FFD21E?style=flat-square"/> <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square"/></td>
+      <td>🌐 Production API</td>
+      <td><img src="https://img.shields.io/badge/-Live-brightgreen?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PratikNichite/portfolio_assistant_backend"><b>🛸 AI Portfolio Agent</b></a><br/><sub>Autonomous Knowledge System</sub></td>
+      <td><img src="https://img.shields.io/badge/Enhanced-Accuracy-success?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/badge/-RAG-412991?style=flat-square"/> <img src="https://img.shields.io/badge/-Tool_Calling-FF6B6B?style=flat-square"/></td>
+      <td>🎯 Smart Exploration</td>
+      <td><img src="https://img.shields.io/badge/-Active-brightgreen?style=flat-square"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/tharun-kumar-22/toy_detection"><b>🧸 Smart Quality Inspector</b></a><br/><sub>Industrial Computer Vision</sub></td>
+      <td><img src="https://img.shields.io/badge/99%25-Precision-success?style=flat-square"/></td>
+      <td><img src="https://img.shields.io/badge/-YOLOv8-EE4C2C?style=flat-square"/> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square"/></td>
+      <td>🏭 Manufacturing AI</td>
+      <td><img src="https://img.shields.io/badge/-Production-success?style=flat-square"/></td>
     </tr>
   </tbody>
 </table>
 
+<h3>🏆 Mission Achievements</h3>
+<ul>
+  <li>📄 <a href="https://doi.org/10.1109/ITHET61869.2024.10837640"><b><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/star.svg" width="20" alt="achievement" /> IEEE ITHET 2024 Conference Publication</b></a><br/><i>Scientific Publication Indexing and Definition Extraction Resource</i></li>
+  <li>🤝 <b>Active Databricks Collaboration</b><br/><i>Contributing to open-source AI agent advancement</i></li>
+  <li>🎯 <b>90%+ Precision in NLP Systems</b><br/><i>Self-hosted LLM deployment and fine-tuning</i></li>
+  <li>🔍 <b>96.1% F1-Score in Computer Vision</b><br/><i>Infrastructure anomaly detection systems</i></li>
+  <li>🚀 <b>Production AI Systems Deployed</b><br/><i>Real-time APIs with scalable inference</i></li>
+</ul>
 
 <h3>🌌 Research Constellation</h3>
 <p>
@@ -70,6 +156,16 @@
 <h3>📡 Mission Statistics</h3>
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2" alt="Pratik's GitHub stats"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikNichite&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=F8F8F2" alt="Pratik's most used languages"/></p>
+
+<h3>🛸 Beyond the Code</h3>
+<p>When I'm not training neural networks or building autonomous systems, you'll find me:</p>
+<ul>
+  <li>🎸 Jamming on my guitar and exploring musical instruments</li>
+  <li>⚡ Rolling around on roller skates (my favorite way to debug tough problems!)</li>
+  <li>🎮 Gaming and diving into virtual universes</li>
+  <li>🌌 Stargazing and contemplating the cosmos</li>
+  <li>💻 Writing more code (because why stop?)</li>
+</ul>
 
 <h3>🌍 Transmission Frequencies (Find Me Here)</h3>
 <p>
