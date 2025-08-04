@@ -83,7 +83,7 @@
 </div>
 
 <div align="center">
-  <table>
+  <table min-width="100%">
     <tr>
       <td>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PratikNichite&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F8F8F2"/>
