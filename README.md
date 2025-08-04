@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center">
+<div align="center" min-width="100%">
   <table>
     <tr>
       <td>
