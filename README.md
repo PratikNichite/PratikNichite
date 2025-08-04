@@ -5,7 +5,7 @@
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZwbW5zYTUzMDdhZnF1b242aXA1cjJjcWt3MDBvbXp1cXFlYXZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9VLSOoxiC4FYkbUxW/giphy.gif" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZwbW5zYTUzMDdhZnF1b242aXA1cjJjcWt3MDBvbXp1cXFlYXZpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9VLSOoxiC4FYkbUxW/giphy.gif" width="400" height="600"/>
 </div>
 
 <h3>🚀 Programming Languages (Core Systems)</h3>
