@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td>
       ### 🚀 Programming Languages (Core Systems)
         <p>
           <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
@@ -59,7 +59,7 @@
           <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
         </p>
     </td>
-    <td width="40%" valign="top" align="center">
+    <td>
       <img src="https://i.giphy.com/FT7EbxN8cPeIpIrS1W.webp" width="300" height="450"/>
     </td>
   </tr>
