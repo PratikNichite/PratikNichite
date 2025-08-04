@@ -31,9 +31,6 @@
             <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=mysql&logoColor=white" />
             <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
           </p>
-        </td>
-      </tr>
-      <tr>
           <h4>Machine Learning & Data Science Arsenal</h4>
           <p>
             <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
