@@ -1,7 +1,7 @@
 
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey there, Space Explorer!</h1>
 
-<p>Welcome to my digital universe! 🚀</br> I'm <b>Pratik Nichite</b>, an AI Researcher & Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> <b>India</b>, currently exploring the AI frontier in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Würzburg, Germany</b>. </p>
+<p>Welcome to my digital universe! 🚀</br> I'm <b>Pratik Nichite</b>, an AI Researcher & Engineer from <b>India</b>, currently exploring the AI frontier in <b>Würzburg, Germany</b>. </p>
 
 <p>🛸 <i>Currently on a mission with the <b>Databricks crew</b> to revolutionize autonomous AI systems</i> 🛸</p>
 
