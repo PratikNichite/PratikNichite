@@ -24,7 +24,7 @@
   <table>
     <tr>
       <td>
-        <h4>Programming Languages (Core Systems)</h4>
+        <h4>Programming Languages</h4>
         <p>
           <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
           <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
